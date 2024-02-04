@@ -4,7 +4,10 @@ import "./App.css"
 
 function Description() {
   return (
-      <p>This is the description of the movie.</p>
+    <>
+      <p>This is the description of the movie.</p><br />
+      <p>https://www.youtube.com/watch?v=AwwbhhjQ9Xk</p>
+    </>
   )
 }
 
