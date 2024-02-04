@@ -7,6 +7,9 @@ body {
 }
 
 .Movie-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background: #212131;
     padding: 30px 40px;
     border: 1px solid #5258c7;
